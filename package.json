@@ -2,7 +2,7 @@
   "name": "alura-react-imersao",
   "version": "0.0.1",
   "author": {
-    "name": "Walber Vaz" 
+    "name": "Walber Vaz"
   },
   "repository": {
     "url": "https://github.com/walber-vaz/alura-react-imersao"
@@ -17,6 +17,7 @@
   "dependencies": {
     "next": "^13.0.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.6"
   }
 }
